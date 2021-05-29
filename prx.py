@@ -35,7 +35,7 @@ print(f'''{BOLD}\033[35m
 
 {RED}PROXY PARSER (IN TERMUX)
 
-{GREEN}[coded by @DarkUserWitch]\n[channel: t.me/termux_hack_xr]
+{GREEN}[ coded by @DarkUserWitch - Ведьма ]\n[ channel: t.me/scm_security ]
 ''')
 print(f"{RED}1 - proxy parsing\nctrl + c - exit")
 
